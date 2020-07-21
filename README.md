@@ -1,0 +1,2 @@
+# COA-miniproject
+Memory Partitioning refers to the logical division of the memory into subparts so that they can be accessed individually by tasks. Fragmentation generally happens when memory blocks have been allocated and are freed randomly. This results in splitting of partition memory into small non-continuous fragments. There are three memory allocation policies: 1)First fit    2)Best fit   3)worst fit and their implementation in C language is done by me in this project.
